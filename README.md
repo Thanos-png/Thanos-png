@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanos-png&label=Profile%20views&color=0e75b6&style=flat" alt="thanos-png" /> </p>
 
 - 🔭 I’m currently working on **Remote Control Light Switch**
 
