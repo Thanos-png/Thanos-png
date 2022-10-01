@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Remote Control Light Switch**
+- 🔭 I’m currently working on **Web Scraping Using Python**
 
-- 🌱 I’m currently learning **Arduino**
+- 🌱 I’m currently learning about **Cryptography**
 
 - 💬 Ask me about **Python**
 
