@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Scraping Using Python**
 
-- 🌱 I’m currently learning about **Cryptography**
+- 🌱 I’m currently learning about **Cyber Security**
 
 - 💬 Ask me about **Python**
 
