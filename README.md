@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning about **Cyber Security**
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **thanos.panagiotidis@protonmail.com**
 
 - ⚡ Fun fact **I'm a book lover**
