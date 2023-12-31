@@ -8,7 +8,7 @@
 
 - 🌱 Always happy to learn new things and make new friends
 
-- 📫 How to reach me **thanos.panagiotidis@protonmail.com**
+- 📫 Reach me here **thanos.panagiotidis@protonmail.com**
 
 - 🏆 It's all about the **legacy**
 
