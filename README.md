@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on a **Webpage**
+- 🔭 I’m currently working on a **Missile control project** with ADA
 
-- 🌱 I’m currently learning about **Cyber Security**
+- 🌱 Always happy to learn new things
 
 - 📫 How to reach me **thanos.panagiotidis@protonmail.com**
 
-- ⚡ Fun fact **I'm a book lover**
+- 🏆 It's all about the **legacy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
