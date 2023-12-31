@@ -18,4 +18,4 @@
 <a href="https://instagram.com/0xthanos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xthanos" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanos-png&show_icons=true&locale=en" alt="thanos-png" /></p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanos-png&show_icons=true&locale=en" alt="thanos-png" /></p> -->
