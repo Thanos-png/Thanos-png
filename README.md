@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Missile control project** with ADA
 
-- 🌱 Always happy to learn new things
+- 🌱 Always happy to learn new things and make new friends
 
 - 📫 How to reach me **thanos.panagiotidis@protonmail.com**
 
