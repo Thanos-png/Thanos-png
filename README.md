@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Thanos</h1>
-<h3 align="center">I'm studying informatics at AUEB</h3>
+<h1 align="center">Hi, Thanos here</h1>
+<h3 align="center">I'm a cs student at AUEB</h3>
 <!--- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 
 
