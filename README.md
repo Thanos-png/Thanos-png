@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a **Missile control project** with ADA
+- 🔭 I’m currently working on a **self driving RC Car** with Python
 
 - 🌱 Always happy to learn new things and make new friends
 
