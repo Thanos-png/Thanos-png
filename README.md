@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a **self driving RC Car** using Python
+- 🔭 I’m currently working on a **self driving RC Car**
 
 - 🌱 Always happy to learn new things and make new friends
 
