@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on a **self driving RC Car**
+- 🔭 I’m currently part of a small but visionary team that works on a **self driving RC Car**
 
 - 🌱 Always happy to learn new things and make new friends
 
 - 📫 Reach me here **thanos.panagiotidis@protonmail.com**
 
-- 🏆 The motive is **legacy**
+- 🏆 The motive is always **legacy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
