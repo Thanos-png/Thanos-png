@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently part of a small but visionary team that works on a **self driving RC Car**
+- 🔭 I’m currently working on a **Chess Engine** using python
 
 - 🌱 Always happy to learn new things and make new friends
 
