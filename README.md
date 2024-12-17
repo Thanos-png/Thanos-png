@@ -10,7 +10,7 @@
 
 - 📫 Reach me here **thanos.panagiotidis@protonmail.com**
 
-- 🏆 The motive is always **legacy**
+- 🏆 The motive is **legacy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
