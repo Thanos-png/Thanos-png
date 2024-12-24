@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a **Chess Engine** using python
+- 🔭 I’m currently working on a **2D Game** using C++ and the SGG lib
 
 - 🌱 Always happy to learn new things and make new friends
 
