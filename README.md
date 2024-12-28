@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a **2D Game** using C++ and the SGG lib
+- 🔭 I’m currently working on a **2D Game** in C++ using the SGG lib
 
 - 🌱 Always happy to learn new things and make new friends
 
