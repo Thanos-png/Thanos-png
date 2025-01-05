@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a **2D Game** in C++ using the SGG lib
+- 🔭 I’m currently working on a transportation **Android App** in Java
 
 - 🌱 Always happy to learn new things and make new friends
 
