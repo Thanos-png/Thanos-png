@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a transportation **Android App** in Java
+- 🔭 I’m currently working on a **Machine Learing Model** using pytorch
 
 - 🌱 Always happy to learn new things and make new friends
 
