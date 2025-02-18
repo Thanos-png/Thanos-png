@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Thanos</h1>
 <h3 align="center">I'm a cs student at AUEB</h3>
-<!--- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
+<!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 
 
 
-- 🔭 I’m currently working on a **Machine Learing Model** using pytorch
+- 🔭 I'm not working on anything at the moment, but I'd be interested in doing so.
 
 - 🌱 Always happy to learn new things and make new friends
 
