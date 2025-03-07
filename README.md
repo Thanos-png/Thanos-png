@@ -3,8 +3,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 
 
-
-- 🔭 I'm not working on anything at the moment, but I'd be interested in doing so.
+- 🔭 I'm not working on anything right now, but I'm definitely open to it! Don't hesitate to reach out.
 
 - 🌱 Always happy to learn new things and make new friends
 
@@ -15,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--- <a href="https://stackoverflow.com/users/20101504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20101504" height="30" width="40" /></a> -->
-<a href="https://instagram.com/0xthanos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xthanos" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1027273357298778143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thanospng" height="37" width="40" /></a>
+<a href="https://gr.linkedin.com/in/thanos-panagiotidis-28b873287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1027273357298778143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="37" width="40" /></a>
 </p>
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanos-png&show_icons=true&locale=en" alt="thanos-png" /></p> -->
