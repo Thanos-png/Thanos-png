@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 
 
-- 🔭 I'm not working on anything right now, but I'm definitely open to it! Don't hesitate to reach out.
+- 🔭 I'm currently developing a distributed system for a food delivery Android app using Java
 
 - 🌱 Always happy to learn new things and make new friends
 
