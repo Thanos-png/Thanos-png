@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thanos</h1>
-<h3 align="center">I'm a CS Student at NTNU</h3>
+<h3 align="center">I'm a CS Student at AUEB</h3>
 
 🔭 I've a strong passion for building impactful systems and exploring the world of AI/ML
 
